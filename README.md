@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning HTML & CSS and Python
 - 📫 How to reach me: [Twitter](https://twitter.com/synthesis____)
 
 
