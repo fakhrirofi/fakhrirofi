@@ -1,6 +1,8 @@
 ### Hi there 👋
 - 🌱 I’m currently learning HTML & CSS and Python
-- 📫 How to reach me: [Twitter](https://twitter.com/synthesis____)
+- 📫 How to reach me: 
+    * [LinkedIn](https://www.linkedin.com/in/fakhricrofi/)
+    * [Email](mailto:darksiede@tutanota.com)
 
 
 <!--
