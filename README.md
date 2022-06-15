@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning HTML & CSS and Python
+- 🌱 I’m currently learning Dart, Python, and HTML & CSS.
 - 📫 How to reach me: 
     * [LinkedIn](https://www.linkedin.com/in/fakhricrofi/)
     * [Email](mailto:darksiede@tutanota.com)
