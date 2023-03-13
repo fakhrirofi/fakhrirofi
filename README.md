@@ -1,10 +1,9 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Dart, Python, and HTML & CSS.
+- 🌱 I’m currently learning Data Analysis and Machine Learning for the economic evaluation of a project
+- ⚡ My hobby was solving coding problems on [HackerRank](https://www.hackerrank.com/fakhricrofi)
 - 📫 How to reach me: 
     * [LinkedIn](https://www.linkedin.com/in/fakhricrofi/)
     * [Email](mailto:darksiede@tutanota.com)
-
-
 <!--
 **fakhrirofi/fakhrirofi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.	**fakhrirofi/fakhrirofi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:	Here are some ideas to get you started:
