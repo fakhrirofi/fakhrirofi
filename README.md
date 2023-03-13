@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Data Analysis and Machine Learning for the economic evaluation of a project
+- 🌱 I’m currently learning Data Analysis and Machine Learning for the economic evaluation of a mining project
 - ⚡ My hobby was solving coding problems on [HackerRank](https://www.hackerrank.com/fakhricrofi)
 - 📫 How to reach me: 
     * [LinkedIn](https://www.linkedin.com/in/fakhricrofi/)
